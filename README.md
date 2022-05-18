@@ -5,4 +5,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=JavaScript+Frontend+Web-developer)](https://git.io/typing-svg)
 
 <h3 align="center">My stack:</h3>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<!-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
+![Flutter](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
